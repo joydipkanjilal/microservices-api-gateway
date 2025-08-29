@@ -1,4 +1,4 @@
-# An ASP.NET Core Microservices-based Application that uses an API Gateway
+# Using an API Gateway in an ASP.NET Core Microservices-based Application
 
 To clone the repository into your local computer, execute the following command at the command window:
 
